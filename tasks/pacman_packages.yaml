@@ -28,3 +28,7 @@
     - openvpn
     - wireshark-qt
     - ttf-jetbrains-mono
+
+    # user huita
+    - firefox
+    - telegram-desktop
