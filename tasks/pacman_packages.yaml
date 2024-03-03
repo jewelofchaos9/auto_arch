@@ -1,0 +1,30 @@
+- name: Install packages packman
+  pacman: name={{item}}
+  with_items:
+    # PYTHON 
+    - python3
+    - python-z3-solver
+    - python-requests
+    - python-tqdm
+    - python-flask
+    - ipython
+    - python-gmpy2
+    - python-pwntools
+    - python-tqdm
+    - python-wsproto
+    # SYSTEM
+    - htop
+    - git
+    - docker
+    - docker-compose
+    - zip
+    - unzip
+    - unrar
+    - neovim
+    - neofetch
+    - uwufetch
+    - fish
+    - alacritty
+    - openvpn
+    - wireshark-qt
+    - ttf-jetbrains-mono

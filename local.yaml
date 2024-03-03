@@ -1,0 +1,12 @@
+- hosts: localhost
+  become: true
+  tasks:
+    - ansible.builtin.import_tasks: tasks/pacman_packages.yaml
+
+    - ansible.builtin.import_tasks: tasks/aur_packages.yaml
+      become: yes
+      become_user: denis
+      
+    - ansible.builtin.import_tasks: tasks/configs.yaml
+      become: yes
+      become_user: denis

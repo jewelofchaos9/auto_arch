@@ -1,0 +1,4 @@
+- name: Install packages packman
+  yay: name={{item}}
+  with_items:
+    - wine-stable

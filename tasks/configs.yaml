@@ -1,0 +1,4 @@
+- name: Copy configs
+  copy: remote_src=True src={{item}} dest={{ansible_env.HOME}}/.config/
+  with_items:
+    - configs/config
