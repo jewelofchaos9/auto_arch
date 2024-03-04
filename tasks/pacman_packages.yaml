@@ -26,9 +26,19 @@
     - fish
     - alacritty
     - openvpn
+    - openssh
+    - wireguard-tools
     - wireshark-qt
     - ttf-jetbrains-mono
 
     # user huita
     - firefox
+    - xorg-server
+    - xorg-xinit
+    - i3-gaps
+    - i3status
+    - dmenu
+    - xorg-xrandr
+    - rofi
+    - polybar
     - telegram-desktop

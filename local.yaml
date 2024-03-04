@@ -5,10 +5,10 @@
       become: yes
       become_user: root
 
-    - ansible.builtin.import_tasks: tasks/aur_packages.yaml
+    - ansible.builtin.import_tasks: tasks/add_defkit.yaml
       become: yes
-      become_user: defkit
-      
+      become_user: root
+
     - ansible.builtin.import_tasks: tasks/configs.yaml
       become: yes
       become_user: defkit

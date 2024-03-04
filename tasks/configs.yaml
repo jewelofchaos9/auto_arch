@@ -1,4 +1,8 @@
 - name: Copy configs
-  copy: remote_src=True src={{item}} dest={{ansible_env.HOME}}/.config/
+  copy: remote_src=True src={{item}} dest=/home/defkit/.config/
   with_items:
-    - configs/config
+    - configs/fish
+    - configs/alacritty
+    - configs/i3
+    - configs/nvim
+    - configs/polybar
