@@ -1,0 +1,127 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="4" l="1703243499933" />
+    </e>
+    <e n="$Undo">
+      <i c="10" l="1703333395571" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="1" l="1703247739279" />
+    </e>
+    <e n="ActivateCommitToolWindow">
+      <i c="1" l="1703244293794" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="824" l="1703334800109" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="292" l="1703333699538" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="3" l="1703153244594" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="2" l="1703329472767" />
+    </e>
+    <e n="EditorCopy">
+      <i c="20" l="1703328539600" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="182" l="1703334932035" />
+    </e>
+    <e n="EditorDown">
+      <i c="364" l="1703330774698" />
+    </e>
+    <e n="EditorEnter">
+      <i c="369" l="1703334968603" />
+    </e>
+    <e n="EditorLeft">
+      <i c="94" l="1703333496858" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="186" l="1703334943949" />
+    </e>
+    <e n="EditorPaste">
+      <i c="18" l="1703328542648" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="158" l="1703334813234" />
+    </e>
+    <e n="EditorRight">
+      <i c="195" l="1703334838789" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="4" l="1703334834545" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="1" l="1703329917448" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="1" l="1703159242622" />
+    </e>
+    <e n="EditorTab">
+      <i c="45" l="1703333317369" />
+    </e>
+    <e n="EditorUp">
+      <i c="161" l="1703333509464" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="3" l="1703327287609" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="4" l="1703247638560" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1703242950829" />
+    </e>
+    <e n="NewDir">
+      <i c="6" l="1703242620114" />
+    </e>
+    <e n="NewFile">
+      <i c="3" l="1703246313085" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="16" l="1703246751754" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="4" l="1703333421417" />
+    </e>
+    <e n="RenameElement">
+      <i c="8" l="1703333417171" />
+    </e>
+    <e n="Run">
+      <i c="44" l="1703248688160" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="45" l="1703333497042" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="1" l="1703150800983" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="3" l="1703243500293" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1703160697819" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1703148858886" />
+    </e>
+    <e n="com.intellij.refactoring.suggested.PerformSuggestedRefactoringKt$createAndShowBalloon$2">
+      <i c="1" l="1703157078214" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1703244617819" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1703328259304" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1703148880083" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1703247552423" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,67 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="14" l="1706006679011" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="16" l="1706006613142" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="9" l="1706006678539" />
+    </e>
+    <e n="EditorDown">
+      <i c="17" l="1706006633172" />
+    </e>
+    <e n="EditorEnter">
+      <i c="14" l="1706007239447" />
+    </e>
+    <e n="EditorLeft">
+      <i c="10" l="1706006634268" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="15" l="1706006618404" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="9" l="1706006633911" />
+    </e>
+    <e n="EditorRight">
+      <i c="5" l="1706006632851" />
+    </e>
+    <e n="EditorTab">
+      <i c="4" l="1706006594233" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="4" l="1706006607939" />
+    </e>
+    <e n="EditorUp">
+      <i c="19" l="1706006619712" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1706006531337" />
+    </e>
+    <e n="GenerateGetter">
+      <i c="1" l="1706006532847" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1706006070104" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1706006008076" />
+    </e>
+    <e n="Run">
+      <i c="7" l="1706006682904" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="5" l="1706006620188" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1706006040808" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1706005755988" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1706006042768" />
+    </e>
+  </component>
+</application>
