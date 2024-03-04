@@ -1,4 +1,0 @@
-2023/12/22-14:51:51.659 d08 Reusing MANIFEST /home/defkit/.config/Postman/Partitions/9ae5cd87-a96d-4eae-9e1b-a9aafbf55248/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/22-14:51:51.660 d08 Recovering log #8
-2023/12/22-14:51:51.664 d08 Reusing old log /home/defkit/.config/Postman/Partitions/9ae5cd87-a96d-4eae-9e1b-a9aafbf55248/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000008.log 
-2023/12/22-14:51:51.665 d08 Delete type=2 #7

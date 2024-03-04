@@ -1,6 +1,0 @@
-2023/12/21-13:17:42.129 63f0 Creating DB /home/defkit/.config/Postman/Partitions/9ae5cd87-a96d-4eae-9e1b-a9aafbf55248/IndexedDB/file__0.indexeddb.leveldb since it was missing.
-2023/12/21-13:17:42.130 63f0 Reusing MANIFEST /home/defkit/.config/Postman/Partitions/9ae5cd87-a96d-4eae-9e1b-a9aafbf55248/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2023/12/21-13:17:42.132 63c3 Level-0 table #5: started
-2023/12/21-13:17:42.132 63c3 Level-0 table #5: 492 bytes OK
-2023/12/21-13:17:42.133 63c3 Delete type=0 #3
-2023/12/21-13:17:42.133 63c3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
